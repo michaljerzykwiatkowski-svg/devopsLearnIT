@@ -1,2 +1,3 @@
-Jak rozumiem filozofie DevOps?
-DevOps odnosi sie do rodzaju stanowiska, które inaczej mozemy nazwac Operacyjnym Developerem. Jego rolą jest tworzenie, automatyzacji przy najbardziej powtarzalnych czynnościach, utrzymywanie dobrej jakości srodowisk pracy dla developerów oraz analiza stanu środowisk i minimalizacja problemow kompatybilnosci tych srodowisk ze srodowiskami developerskimi
+# Jak rozumiem filozofię DevOps?
+Termin DevOps odnosi się do rodzaju stanowiska, które inaczej możemy nazwać Operacyjnym Developerem. 
+Jego rolą jest tworzenie automatyzacji dla najbardziej powtarzalnych czynności, utrzymywanie dobrej jakości środowiska pracy dla developerów, analiza stanu tych środowisk oraz minimalizacja problemów kompatybilności ze środowiskami developerskimi.
